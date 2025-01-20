@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Current lead of the **CE Phoenix** project, an Open Source E-Commerce shopping cart.
+
+
 <!--
 **gburton/gburton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
