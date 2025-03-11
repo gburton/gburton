@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Current lead of the **CE Phoenix** project, an Open Source E-Commerce shopping cart.
+Current co-lead dev of the **CE Phoenix** project, an Open Source E-Commerce shopping cart.
 
 
 <!--
