@@ -2,7 +2,11 @@
 
 Current co-lead dev of the **CE Phoenix** project, an Open Source E-Commerce shopping cart.
 
+> Open source is about building something for yourself, and sharing it with others.
+> 
+> Those others then build on it to add their own needs, and share it in return.
 
+I've done my bit.  Have you done yours?
 <!--
 **gburton/gburton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
